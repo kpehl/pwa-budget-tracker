@@ -26,7 +26,7 @@ The application is deployed on Heroku at https://sheltered-eyrie-50710.herokuapp
 
 ## Screenshot
 
-![screenshot](#)
+![screenshot](./pwa-budget-tracker-screenshot.png)
 
 ## License
 
